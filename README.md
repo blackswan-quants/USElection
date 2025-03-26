@@ -18,7 +18,7 @@ To capture the full picture, we explored multiple facets of the election's impac
 5. Broader Market Analysis: The study extended beyond SPY, incorporating major ETFs, including the European EURO STOXX index, to gain a global perspective.
 
 ## Libraries 
-Numpy , scipy , matplotlib 
+Numpy , Matplotlib , Pandas , Seaborn , Scipy
 
 ## Credits
 [BlackSwan Quants](https://www.linkedin.com/company/blackswan-quants/)
